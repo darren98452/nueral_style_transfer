@@ -1,0 +1,6 @@
+{
+  "name": "PiStyle AI",
+  "description": "A premium AI Style Transfer interface supporting content and style image blending with local Raspberry Pi Flask integration and an interactive canvas mockup processor.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
