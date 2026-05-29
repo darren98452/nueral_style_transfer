@@ -161,7 +161,7 @@ http://localhost:3000
 
 ## Author
 
-**Darrenraj I**
+** I Darren Raj **
 
 Artificial Intelligence & Machine Learning Engineer
 
